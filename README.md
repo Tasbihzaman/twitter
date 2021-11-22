@@ -5,8 +5,7 @@ So there are not user accounts and follow function. You can challenge after you 
 
 # Checkout [Live Demo](https://twitter-akter.herokuapp.com/)!
 
-![Screenshot](https://user-images.githubusercontent.com/80218920/142921901-5caf5396-015e-4807-8327-854405b3c2d1.png)
-)
+![Screenshot](https://user-images.githubusercontent.com/80218920/142922192-8558fbe4-7c5f-4397-843d-5029937daf48.png)
 
 
 # Tech used
