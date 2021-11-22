@@ -92,11 +92,11 @@ WSGI_APPLICATION = 'django_forum.wsgi.application'
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "d1envnqqarmcim",
-        "USER": "hsxsmpirmwndbm",
-        "HOST": "ec2-52-87-81-98.compute-1.amazonaws.com",
+        "NAME": "d8ig2k2imm3p8",
+        "USER": "yncvlyqrlblgtj",
+        "HOST": "ec2-107-20-127-127.compute-1.amazonaws.com",
         "PORT": 5432,
-        "PASSWORD": "95a4611f4c075dcf48be755ecc183fdafb33a8ca72b6114e4cbdf8f1a7083588",
+        "PASSWORD": "d811884086bc95c00bab1379845768e699812cba8e0a9a12fee25d24e7447f44",
     }
 }
 # django_heroku.settings(locals())
